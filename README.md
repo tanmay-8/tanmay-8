@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 - 🌱 I’m currently persuing Engineering in Information Technology
-- I am learning about web development.**
+- I am learning about **web development** .
 - 📫 How to reach me **tanmayshingde8@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
